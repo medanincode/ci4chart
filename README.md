@@ -2,4 +2,4 @@
 
 Untuk Deskripsi dan Cara Penggunaan bisa dibaca disini
 
-[Klik lihat Disini](https://medanincode.com/post/membuat-grafik-dari-database-codeigniter-4)
+[Klik lihat Disini](https://medanincode.com/post/ci4/membuat-grafik-dari-database-codeigniter-4)
